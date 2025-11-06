@@ -1,0 +1,5 @@
+diff_zip/**/*.ear
+diff_zip/**/*.jar
+diff_zip/**/*.zip
+diff_zip/**/*.war
+diff_zip/**/*.gz
